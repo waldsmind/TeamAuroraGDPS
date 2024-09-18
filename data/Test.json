@@ -1,19 +1,14 @@
-"id": 1234567891,
-	"name": "Test",
-	"tags": [
-		"2.2",
-		"Long",
-		"Fast-Paced",
-		"High CPS",
-		"Robot",
-		"Wave"
-	],
-	"author": waldsmind,
-	"creators": [
-		waldsmind
-	],
-	"verifier": waldsmind,
-	"verification": "https://www.youtube.com/watch?v=TQcK6VGWZAU",
-	"percentToQualify": 100,
-	"password": "1234",
-	"records": []
+{
+    "id": 1,
+    "name": "Level Name",
+    "author": "Test3",
+    "creators": [
+        "Test1",
+        "Test2"
+    ],
+    "verifier": "verifier",
+    "verification": "link verification",
+    "percentToQualify": 51,
+    "password": "put here password",
+    "records": []
+}
